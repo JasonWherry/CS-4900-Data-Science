@@ -1,0 +1,2 @@
+# CS-4900-Data-Science
+Course Description: Students who complete this course will gain a thorough understanding of computational techniques and processes for data science by implementing them and by applying them to solve real world problems. Students will gain not only an understanding of data science models and methods, but they also will learn how to perform analyses to answer domain research questions and to effectively communicate insights that result from their analyses. 
